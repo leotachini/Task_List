@@ -1,0 +1,8 @@
+span {
+  background-color: darkred;
+  color: bisque;
+  display: flex;
+  text-align: center;
+  padding: 9px;
+  font-weight: bold;
+}
